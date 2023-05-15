@@ -8,7 +8,7 @@ I'm a creative wizard and a Solidity sorcerer, masterfully crafting spells on th
 - 🤔 I’m looking for help with cross-chain conundrums. Got insights? Holler at me!
 - 💬 Ask me about solidity, blockchain magic, crypto chitchat. I'll talk your ear off!
 - 📫 How to reach me: [tonoyandeveloper@gmail.com](mailto:tonoyandeveloper@gmail.com).
-- 😄 Pronouns:He/Him/Mr. Blockchain Wizard
+- 😄 Pronouns: He/Him/Mr. Blockchain Wizard
 - ⚡ Fun fact: Did you know that there are more possible iterations of a game of chess than there are atoms in the known universe? Talk about endless possibilities, much like the blockchain space!
 
 
