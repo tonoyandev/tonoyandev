@@ -1,16 +1,44 @@
-### Hi there 👋
+### Hi there, Earthlings! 👽 I'm Ararat
+I'm a creative wizard and a Solidity sorcerer, masterfully crafting spells on the Ethereum blockchain. I’ve been accused of talking to computers - guilty as charged!
 
-<!--
-**tonoyandev/tonoyandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a top-secret AI trained dog called RichAI on Ethereum. Shhh!
+- 🌱 I’m currently learning the arcane arts of smart contract optimization. Next? Polkadot or Cosmos!
+- 👯 I’m looking to collaborate on your crazy DApp project. Bring it on!
+- 🤔 I’m looking for help with cross-chain conundrums. Got insights? Holler at me!
+- 💬 Ask me about solidity, blockchain magic, crypto chitchat. I'll talk your ear off!
+- 📫 How to reach me: [tonoyandeveloper@gmail.com](mailto:tonoyandeveloper@gmail.com).
+- 😄 Pronouns:He/Him/Mr. Blockchain Wizard
+- ⚡ Fun fact: Did you know that there are more possible iterations of a game of chess than there are atoms in the known universe? Talk about endless possibilities, much like the blockchain space!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 💻 OS
+
+<p> 
+    <a href="https://www.microsoft.com/en-gb/windows" target="_blank"><img alt="Windows"
+        src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
+</p>
+
+### 🎯 Skills
+
+#### ⌨️ Programming languages
+
+<p>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript"
+        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
+    <a href="https://docs.soliditylang.org" target="_blank"><img alt="Solidity"
+        src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
+    <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"
+        src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+</p>
+
+#### 🎛 Frameworks and runtime environments
+
+<p>
+    <a href="https://angular.io" target="_blank"><img alt="Angular"
+        src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></a>
+    <a href="https://angular.io" target="_blank"><img alt="React"
+        src="https://img.shields.io/badge/React-DD0031?style=for-the-badge&logo=react&logoColor=blue"/></a>
+    <a href="https://nodejs.org" target="_blank"><img alt="Node.js"
+        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+</p>
