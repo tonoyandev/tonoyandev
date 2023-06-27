@@ -2,9 +2,9 @@
 I'm a creative wizard and a Solidity sorcerer, masterfully crafting spells on the Ethereum blockchain. I’ve been accused of talking to computers - guilty as charged!
 
 
-- 🔭 I’m currently working on a top-secret AI trained dog called RichAI on Ethereum. Shhh!
-- 🌱 I’m currently learning the arcane arts of smart contract optimization. Next? Polkadot or Cosmos!
-- 👯 I’m looking to collaborate on your crazy DApp project. Bring it on!
+- 🔭 I’m currently working on a zk-Stark and zk-Snark technologies, discovering zk-Sync ERA and some other stuff
+- 🌱 I’m currently learning the ZKP tools
+- 👯 I’m looking to collaborate on your blockchain project. Bring it on!
 - 🤔 I’m looking for help with cross-chain conundrums. Got insights? Holler at me!
 - 💬 Ask me about solidity, blockchain magic, crypto chitchat. I'll talk your ear off!
 - 📫 How to reach me: [hi@tonoyan.dev](mailto:hi@tonoyan.dev).
