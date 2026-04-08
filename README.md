@@ -1,46 +1,50 @@
-### Hi there, Earthlings! 👽 I'm Ararat
-I'm a creative wizard and a Solidity sorcerer, masterfully crafting spells on the Ethereum blockchain. I’ve been accused of talking to computers - guilty as charged!
+## 0x417261726174 | EVM engineer since 2017 <br>
+
+**B**lockchain is not a religion. It's infrastructure. <br>
+**U**sually shipping something. Rarely talking about it. <br>
+**I** audit what others build. Then build what others audit. <br>
+**L**ast seven years: Ethereum, Dapps, Education, Consulting, fifty projects. <br>
+**D**ecentralized by philosophy. Remote by choice. <br> <br>
 
 
-- 🔭 I’m currently working on a zk-Stark and zk-Snark technologies, discovering zk-Sync ERA and some other stuff
-- 🌱 I’m currently learning the ZKP tools
-- 👯 I’m looking to collaborate on your blockchain project. Bring it on!
-- 🤔 I’m looking for help with cross-chain conundrums. Got insights? Holler at me!
-- 💬 Ask me about solidity, blockchain magic, crypto chitchat. I'll talk your ear off!
-- 📫 How to reach me: [hi@tonoyan.dev](mailto:hi@tonoyan.dev).
-- 😄 Pronouns: He/Him/Mr. Blockchain Wizard
-- ⚡ Fun fact: Did you know that there are more possible iterations of a game of chess than there are atoms in the known universe? Talk about endless possibilities, much like the blockchain space!
+reach me →  [hi@tonoyan.dev](mailto:hi@tonoyan.dev).
+
 
 
 ### 💻 OS
-
-<p> 
-    <a href="https://www.microsoft.com/en-gb/windows" target="_blank"><img alt="Windows"
-        src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
-</p>
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 ### 🎯 Skills
 
 #### ⌨️ Programming languages
 
-<p>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript"
-        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
-    <a href="https://docs.soliditylang.org" target="_blank"><img alt="Solidity"
-        src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
-    <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"
-        src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+
 
 #### 🎛 Frameworks and runtime environments
 
-<p>
-    <a href="https://hardhat.org/getting-started/"><img alt="Hardhat"
-        src="https://img.shields.io/badge/Hardhat-white?style=for-the-badge&logo=hardhat"></a>
-    <a href="https://reactjs.org/docs/getting-started.html"><img alt="React"
-        src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"></a>
-    <a href="https://angular.io" target="_blank"><img alt="Angular"
-        src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></a>
-    <a href="https://nodejs.org" target="_blank"><img alt="Node.js"
-        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
-</p>
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-black?style=flat-square&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-yellow?style=flat-square&logo=ethereum&logoColor=black)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white)
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Arbitrum](https://img.shields.io/badge/Arbitrum-213147?style=flat-square&logo=arbitrum&logoColor=white)
+![Base](https://img.shields.io/badge/Base-0052FF?style=flat-square&logo=coinbase&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white)
+![BNB Chain](https://img.shields.io/badge/BNB_Chain-F0B90B?style=flat-square&logo=binance&logoColor=black)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+![ethers.js](https://img.shields.io/badge/ethers.js-2535a0?style=flat-square&logo=ethereum&logoColor=white)
+![viem](https://img.shields.io/badge/viem-FFC517?style=flat-square&logo=ethereum&logoColor=black)
+![wagmi](https://img.shields.io/badge/wagmi-1C1B1F?style=flat-square&logo=ethereum&logoColor=white)
+![The Graph](https://img.shields.io/badge/The_Graph-6747ED?style=flat-square&logo=thegraph&logoColor=white)
+
